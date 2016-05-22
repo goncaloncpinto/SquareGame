@@ -1,2 +1,2 @@
 # SquareGame
-A simple game in hTML, CSS, JS and jQuery
+A simple game in HTML, CSS, JS and jQuery
